@@ -1,2 +1,2 @@
-# 36dos.net
+# 36dos
 Personal website
